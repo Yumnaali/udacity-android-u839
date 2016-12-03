@@ -2,3 +2,5 @@
 
 Android Basics: Multi-screen Apps
 
+by __Google__
+
